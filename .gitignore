@@ -1,0 +1,32 @@
+
+# Python generated files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Credentials and local settings
+.env
+.env.*
+
+# Research datasets
+/data/
+*.csv
+*.xlsx
+
+# Generated experiment results
+/results/
+
+# Trained model checkpoints
+*.pth
+*.pt
+
+# Other temporary files
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+Thumbs.db
